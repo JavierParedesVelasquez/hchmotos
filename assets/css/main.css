@@ -1,0 +1,33 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.text_banner{
+    font-family: 'Rubik Glitch', cursive;
+
+}
+.title_productos{
+    font-family: 'Abril Fatface', cursive;
+
+}
+.img_producto{
+    height: 300px !important;
+}
+.btn_wsp{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom:33px;
+    right: 30px;
+    background: #0df053;
+    color:#fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+
+}
+.btn_wsp:hover{
+    color: #000;
+}
